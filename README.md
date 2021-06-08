@@ -15,3 +15,14 @@
     <img alt="oracle" src="https://img.shields.io/badge/oracle-%23F00000.svg?style=float&logo=oracle&logoColor=white"/></a>
 </p>
 
+
+<h3 align=center>
+    💎ME💎
+</h3>
+<p align=center>
+    <img alt="oracle" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chleorjs37@gmail.com"/></a>
+    <a href="https://velog.io/@cdk3509">
+        <img alt="oracle" src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cdk3509"/>
+    </a>
+    
+</p>
