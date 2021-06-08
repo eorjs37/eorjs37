@@ -1,8 +1,8 @@
-<h3 align=center>
+<h3 align=left>
     ⚒Tech Stack⚒
 </h3>
 
-<p align=center>
+<p align=left>
     <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=float&logo=javascript&logoColor=%23F7DF1E"/></a>
     <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=float&logo=html5&logoColor=white"/></a>
     <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=float&logo=css3&logoColor=white"/></a>
@@ -14,10 +14,10 @@
 </p>
 
 
-<h3 align=center>
+<h3 align=left>
     💎ME💎
 </h3>
-<p align=center>
+<p align=left>
     <img alt="oracle" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chleorjs37@gmail.com"/></a>
     <a target='_blank' href="https://velog.io/@cdk3509" >
         <img alt="velog" src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
