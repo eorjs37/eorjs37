@@ -1,3 +1,7 @@
+<h2 align=left>
+    🖐 <strong>FrontEnd 고수가 되고싶은 최대건입니다</strong>
+</h2>
+
 <h3 align=left>
     ⚒Tech Stack⚒
 </h3>
