@@ -1,5 +1,3 @@
-<h1 align="center"> CHOI DAE GEON</h1>
-
 <h3 align=center>
     ⚒Tech Stack⚒
 </h3>
