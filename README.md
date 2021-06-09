@@ -22,7 +22,6 @@
     💎ME💎
 </h3>
 <p align=left>
-    <img alt="oracle" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chleorjs37@gmail.com"/></a>
     <a target='_blank' href="https://velog.io/@cdk3509" >
         <img alt="velog" src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
     </a>
