@@ -22,9 +22,6 @@
     💎ME💎
 </h3>
 <p align=left>
-    <a target='_blank' href="https://velog.io/@cdk3509" >
-        <img alt="velog" src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
-    </a>
     <a href="https://www.notion.so/FrontEnd-Developer-4bc5b7f2996f4cd0ac4b47288597d2d5" target="_blank">
         <img src="https://img.shields.io/badge/RESUME-000000?style=flat-square&logo=Notion&logoColor=white"/>
     </a>
