@@ -17,6 +17,7 @@
     <img alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=float&logo=mysql&logoColor=white"/></a>
     <img alt="oracle" src="https://img.shields.io/badge/oracle-%23F00000.svg?style=float&logo=oracle&logoColor=white"/></a>
     <img alt="ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=float&logo=Ionic&logoColor=white"/>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=float&logo=Angular&logoColor=white"/>
     <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6?style=float&logo=typescript&logoColor=white"/>
 </p>
 
