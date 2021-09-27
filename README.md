@@ -11,7 +11,7 @@
     <img alt="html5" src="https://img.shields.io/badge/Html5-%23E34F26.svg?style=float&logo=html5&logoColor=white"/></a>
     <img alt="css3" src="https://img.shields.io/badge/Css3-%231572B6.svg?style=float&logo=css3&logoColor=white"/></a>
     <img alt="scss" src="https://img.shields.io/badge/Sass-CC6699.svg?style=float&logo=Sass&logoColor=white"/></a>
-    <img alt="vuejs" src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=float&logo=vue.js&logoColor=%234FC08D"/></a>
+    <img alt="vuejs" src="https://img.shields.io/badge/Vue-%2335495e.svg?style=float&logo=vue.js&logoColor=%234FC08D"/></a>
     <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=float&logo=java&logoColor=white"/></a>
     <img alt="spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=float&logo=spring&logoColor=white"/></a>
     <img alt="mysql" src="https://img.shields.io/badge/Mysql-%2300f.svg?style=float&logo=mysql&logoColor=white"/></a>
