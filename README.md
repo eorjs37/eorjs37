@@ -22,7 +22,7 @@
     💎ME💎
 </h3>
 <p align=left>
-    <a href="https://notch-hardhat-c8a.notion.site/FrontEnd-Developer-4bc5b7f2996f4cd0ac4b47288597d2d5" target="_blank">
+    <a target="_blank" href="https://notch-hardhat-c8a.notion.site/FrontEnd-Developer-4bc5b7f2996f4cd0ac4b47288597d2d5">
         <img src="https://img.shields.io/badge/RESUME-000000?style=flat-square&logo=Notion&logoColor=white"/>
     </a>
 </p>
