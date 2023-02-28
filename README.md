@@ -14,7 +14,6 @@
     <img alt="vuejs" src="https://img.shields.io/badge/Vue-%2335495e.svg?style=float&logo=vue.js&logoColor=%234FC08D"/></a>
     <img alt="ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=float&logo=Ionic&logoColor=white"/>
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=float&logo=Angular&logoColor=white"/>
-    <img alt="typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=float&logo=typescript&logoColor=white"/>
 </p>
 
 
